@@ -7,7 +7,7 @@ st.markdown("# Welcome to my app!")
 
 st.markdown("### Please enter some text below and press enter!")
 
-st.markdown("### Hi prog2 saxa class!!")
+st.markdown("### It will detect how positive or negative a sentence is:")
 
 def sent_app(text):
 

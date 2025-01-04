@@ -34,9 +34,3 @@ This is a Streamlit-based web application that analyzes the sentiment of user-pr
   - Sentiment Analysis: `TextBlob`
   - Data Visualization: `Plotly`
 
----
-
-## How to Run the App
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/username/sentiment-analysis-app.git

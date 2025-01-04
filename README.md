@@ -21,6 +21,12 @@ This is a Streamlit-based web application that analyzes the sentiment of user-pr
 
 ---
 
+
+## Key Visualization
+### Photo of the App
+![App](App.png)
+
+---
 ## Tools & Technologies
 - **Programming Language**: Python
 - **Framework**: Streamlit
